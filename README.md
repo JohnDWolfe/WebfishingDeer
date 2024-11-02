@@ -17,10 +17,10 @@ Install the required dependencies (Requirements above)
 Download the mod zip [here](https://github.com/JohnDWolfe/WebfishingDeer/releases)!
 Unzip GnarlyGnoll.Deer, placing the folder in your WEBFISHING/GDWeave/mods folder
 <table>
-<td><img src="https://github.com/user-attachments/assets/0cdd61b1-9a8a-4d80-89a5-89f091398ba4" width=250 height=200></td>
+<td><img src="https://github.com/user-attachments/assets/0cdd61b1-9a8a-4d80-89a5-89f091398ba4" width=270 height=200></td>
 <td><img src="https://github.com/user-attachments/assets/0dff7efb-2863-46ef-8567-1107234de764" width=200 height=260></td>
 <td><img src="https://github.com/user-attachments/assets/7bf7c0ea-79df-40a8-bbbc-48e11f64a3d2" width=200 height=200></td>
-<td><img src="https://github.com/user-attachments/assets/b81a21d6-ef6a-432e-98cb-c4f6dfc5fa23" width=350 height=200></td>
+<td><img src="https://github.com/user-attachments/assets/b81a21d6-ef6a-432e-98cb-c4f6dfc5fa23" width=320 height=200></td>
  </table>
 
 ### SOMETHINGS WRONG
