@@ -1,0 +1,10 @@
+{
+    "name": "Deer",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/JohnDWolfe/WebfishingDeer",
+    "description": "Deer species for Webfishing!",
+    "dependencies": [
+        "Sulayre-Lure-3.1.3",
+	"NotNet-GDWeave-2.0.12"
+    ]
+}
